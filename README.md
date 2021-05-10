@@ -1,7 +1,7 @@
 # Salesforce Gateway Connector
 Scaffolding for building payment gateway connectors within salesforce.
 
-The repo contains three main classes. They illustrate a process for implementing payment gateway connections within Salesforce. The native approach offers more security and tighter integration to Salesforce features (eg: testing, custom metadata, etc.). All classes use `XYZ` as the namespace. The implementation use ApexClass API version `42.0`.
+The repo contains three main classes. They illustrate a process for implementing payment gateway connections within Salesforce. The native approach offers more security and tighter integration to Salesforce features (eg: testing, custom metadata, etc.). All classes use `XYZ` as the namespace. The implementation uses ApexClass `42.0` API version.
 
 1 - Interface
 --
